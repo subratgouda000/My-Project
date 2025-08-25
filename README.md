@@ -18,7 +18,7 @@ The notebook is implemented in **Google Colab** with Python, TensorFlow/Keras, a
 You can view the full notebook with **code + outputs** here:
 
 ▶️ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jsT_8glMF45lSD8Q9-XJRuMC78G1F2zc)
-🔗 **[View on GitHub](https://github.com/subratgouda000/My-Project/blob/main/Copy_of_Heart_Failure_Prediction_Using_ANN_Model.ipynb)**  
+ 🔗 **[View on GitHub](https://github.com/subratgouda000/My-Project/blob/main/Copy_of_Heart_Failure_Prediction_Using_ANN_Model.ipynb)**  
 
 
 If GitHub preview doesn’t render properly, open with **NBViewer**:  
