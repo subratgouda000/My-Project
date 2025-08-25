@@ -30,7 +30,7 @@ If GitHub preview doesn’t render properly, open with **NBViewer**:
 ## 📊 Results
 - **Training Accuracy:** ~87.70%  
 - **Validation Accuracy:** ~85.59%  
-- **Confusion Matrix:** ![confusion Matrix](confusion_matrix.png)
+- **Confusion Matrix:** ![Confusion Matrix](confusion_matrix.png)
 
 ---
 
